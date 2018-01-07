@@ -7,7 +7,8 @@ priorities in order
 
 	implement a character object
 		-If you want to try this, look at SDL_Rect objects on the wiki (very good page) 
-		and how I manipulated the attributes in my mario game. Look at how I checked for 		 inputs for mario there as well. (doesn't need to implement the acceleration 
+		and how I manipulated the attributes in my mario game. Look at how I checked 
+		for inputs for mario there as well. (doesn't need to implement the acceleration 
 		equations though, as this would be a top-down game, like zelda. This
 		just needs a way to
 		check if the key is down or up, and a velocity variable that the the player's
